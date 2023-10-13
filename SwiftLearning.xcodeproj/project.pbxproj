@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 60;
+	objects = {
+
+/* Begin PBXFileReference section */
+		A6026A172AD2620200CF14AA /* Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Closures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A60ACC222AD281DA00CCA52D /* Functional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Functional.playground; path = Variables.playground/Resources/Functional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A60ACC2E2AD28B8200CCA52D /* Structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A60ACC2F2AD2A73500CCA52D /* Enumerations .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Enumerations .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A6DF981A2AD01C7500CAE3D7 /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		A6DF98132AD01C2500CAE3D7 = {
+			isa = PBXGroup;
+			children = (
+				A60ACC2F2AD2A73500CCA52D /* Enumerations .playground */,
+				A60ACC2E2AD28B8200CCA52D /* Structures.playground */,
+				A60ACC222AD281DA00CCA52D /* Functional.playground */,
+				A6026A172AD2620200CF14AA /* Closures.playground */,
+				A6DF981A2AD01C7500CAE3D7 /* Variables.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		A6DF98142AD01C2500CAE3D7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = A6DF98172AD01C2500CAE3D7 /* Build configuration list for PBXProject "SwiftLearning" */;
+			compatibilityVersion = "Xcode 15.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A6DF98132AD01C2500CAE3D7;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		A6DF98182AD01C2500CAE3D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		A6DF98192AD01C2500CAE3D7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A6DF98172AD01C2500CAE3D7 /* Build configuration list for PBXProject "SwiftLearning" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6DF98182AD01C2500CAE3D7 /* Debug */,
+				A6DF98192AD01C2500CAE3D7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A6DF98142AD01C2500CAE3D7 /* Project object */;
+}
